@@ -1,0 +1,1 @@
+<This is project readme file.>lscat Readme.mdgit status // status of the repository in current branchgit add . // track everything from current branchgit status // just recheckgit commit -m "this is my first commit"
